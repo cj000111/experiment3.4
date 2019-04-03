@@ -1,1 +1,1 @@
-![1](https://github.com/cj000111/experiment3.4/1.jpg)
+![1](https://github.com/cj000111/experiment3.4/blob/master/1.jpg)
